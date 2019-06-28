@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="draw_margin">8dp</dimen>
+    <dimen name="draw_size">30dp</dimen>
+</resources>
